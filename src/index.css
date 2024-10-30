@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+}
+
+html,body{
+  background: #121212;
+  color: #fff;
+  min-height: 100vh;
+  font-family: sans-serif;
+}
+
+.kit-container{
+  height: 100vh;
+  width: 100vw;
+}
